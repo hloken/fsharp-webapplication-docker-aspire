@@ -1,0 +1,1 @@
+# fsharp-webapplication-docker-aspire
